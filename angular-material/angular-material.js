@@ -22852,8 +22852,8 @@ function MenuBarDirective($mdUtil, $mdTheming) {
       angular.forEach(templateEl[0].children, function(menuEl) {
         if (menuEl.nodeName == 'MD-MENU') {
           if (!menuEl.hasAttribute('md-position-mode')) {
-            menuEl.setAttribute('md-position-mode', 'left bottom');
-            menuEl.querySelector('button,a').setAttribute('role', 'menuitem');
+            //menuEl.setAttribute('md-position-mode', 'left bottom');
+            //menuEl.querySelector('button,a').setAttribute('role', 'menuitem');
           }
           var contentEls = $mdUtil.nodesToArray(menuEl.querySelectorAll('md-menu-content'));
           angular.forEach(contentEls, function(contentEl) {
