@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+
+# Jetbrains IDE files
+.idea/
+
+# local assets
+dist/
+
+# Runtime data
+pids
+*.pid
+
+# DynamoDB (Will be loaded from: git@github.com:coretech/dynamodb.git)
+dynamodb/
+
+# Node modules (could to be installed using 'npm install')
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# Bower modules (could to be installed using 'bower install')
+# http://stackoverflow.com/questions/10360342/git-clone-into-another-existing-git-repo
+bower_components
+
+# Miscellanous
+.DS_Store
+Thumbs.db

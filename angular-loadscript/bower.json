@@ -1,0 +1,8 @@
+{
+  "name": "angular-loadscript",
+  "version": "1.0.0",
+  "main": "./angular-loadscript.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}

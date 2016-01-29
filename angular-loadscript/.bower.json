@@ -1,0 +1,12 @@
+{
+  "name": "angular-loadscript",
+  "version": "1.0.0",
+  "main": "./angular-loadscript.js",
+  "ignore": [],
+  "dependencies": {},
+  "homepage": "https://gist.github.com/subudeepak/9617483#file-angular-loadscript-js",
+  "_release": "1.0.0",
+  "_source": "https://gist.github.com/subudeepak/9617483/raw/e5579e7e945628796844eae477102cef2d06d020/angular-loadscript.js",
+  "_target": "1.0.0",
+  "_originalSource": "angular-loadscript"
+}
