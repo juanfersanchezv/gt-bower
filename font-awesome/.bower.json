@@ -1,0 +1,17 @@
+{
+  "name": "font-awesome",
+  "version": "4.5.0",
+  "main": "./css/font-awesome.css",
+  "ignore": [],
+  "dependencies": {},
+  "homepage": "https://github.com/FortAwesome/Font-Awesome",
+  "_release": "4.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.5.0",
+    "commit": "fddd2c240452e6c8990c4ef75e0265b455aa7968"
+  },
+  "_source": "https://github.com/FortAwesome/Font-Awesome.git",
+  "_target": "4.5.0",
+  "_originalSource": "font-awesome"
+}
